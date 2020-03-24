@@ -1,4 +1,4 @@
-node('Spring')
+node('openmrs')
 {
     stage('VCS')
     {
